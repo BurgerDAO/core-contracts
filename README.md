@@ -1,2 +1,2 @@
-# proof-of-burger
-repository to host NFT proof of burger contracts 
+# core-contracts
+repository to host NFT proof of burger, burger burn, and token contracts 
